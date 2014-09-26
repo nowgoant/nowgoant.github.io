@@ -6,3 +6,8 @@ baseurl:
 url:
 twitter_username:
 github_username:  nowgoant
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+encoding: utf-8
