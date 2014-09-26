@@ -1,1 +1,8 @@
-﻿baseurl: /jekyll-site
+﻿# Site settings
+title: nowgoant
+email: 631359926@qq.com
+description: blog Site
+baseurl:
+url:
+twitter_username:
+github_username:  nowgoant
