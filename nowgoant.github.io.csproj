@@ -17,7 +17,7 @@
     <IISExpressUseClassicPipelineMode />
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="index.html" />
+    <None Include="index.md" />
     <Content Include="web.config" />
     <Content Include="_layouts\defalut.html" />
     <Content Include="_posts\2014-09-26-hello-world.html" />
