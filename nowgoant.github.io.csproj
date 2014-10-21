@@ -17,10 +17,22 @@
     <IISExpressUseClassicPipelineMode />
   </PropertyGroup>
   <ItemGroup>
-    <None Include="index.md" />
+    <Content Include=".gitignore" />
+    <Content Include="feed.xml" />
+    <Content Include="index.html" />
+    <Content Include="_layouts\default.html" />
+    <Content Include="_layouts\page.html" />
+    <Content Include="_layouts\post.html" />
+    <Content Include="css\main.scss" />
+    <Content Include="about.md" />
     <Content Include="web.config" />
-    <Content Include="_layouts\defalut.html" />
-    <Content Include="_posts\2014-09-26-hello-world.html" />
+    <Content Include="_includes\footer.html" />
+    <Content Include="_includes\head.html" />
+    <Content Include="_includes\header.html" />
+    <Content Include="_posts\2014-10-21-welcome-to-jekyll.markdown" />
+    <Content Include="_sass\_base.scss" />
+    <Content Include="_sass\_layout.scss" />
+    <Content Include="_sass\_syntax-highlighting.scss" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="README.md" />
