@@ -12,5 +12,5 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: true
 encoding: utf-8
