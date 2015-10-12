@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nowgoant.github.io", "nowgoant.github.io.csproj", "{B5A68DFC-1F07-4237-8992-351F7B83DB75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootstrapMaterial", "..\BootstrapMaterial\BootstrapMaterial.csproj", "{6FD14CC7-C10B-4C4B-8B6E-AC7A5B098131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B5A68DFC-1F07-4237-8992-351F7B83DB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A68DFC-1F07-4237-8992-351F7B83DB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A68DFC-1F07-4237-8992-351F7B83DB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD14CC7-C10B-4C4B-8B6E-AC7A5B098131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD14CC7-C10B-4C4B-8B6E-AC7A5B098131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD14CC7-C10B-4C4B-8B6E-AC7A5B098131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD14CC7-C10B-4C4B-8B6E-AC7A5B098131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

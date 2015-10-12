@@ -1,0 +1,6 @@
+F:\github\nowgoant\nowgoant.github.io\bin\nowgoant.github.io.dll.config
+F:\github\nowgoant\nowgoant.github.io\bin\nowgoant.github.io.dll
+F:\github\nowgoant\nowgoant.github.io\bin\nowgoant.github.io.pdb
+F:\github\nowgoant\nowgoant.github.io\obj\Debug\nowgoant.github.io.dll
+F:\github\nowgoant\nowgoant.github.io\obj\Debug\nowgoant.github.io.pdb
+F:\github\nowgoant\nowgoant.github.io\obj\Debug\nowgoant.github.io.csprojResolveAssemblyReference.cache
